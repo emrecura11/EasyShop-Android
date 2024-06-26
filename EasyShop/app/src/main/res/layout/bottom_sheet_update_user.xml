@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/update_profile_text"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:layout_marginBottom="12dp"
+        />
+    <EditText
+        android:id="@+id/firstNameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/rounded_grey_background"
+        android:hint="@string/update_profile_first_name" />
+
+    <EditText
+        android:id="@+id/lastNameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/rounded_grey_background"
+        android:hint="@string/update_profile_last_name" />
+
+    <EditText
+        android:id="@+id/usernameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/rounded_grey_background"
+        android:hint="@string/update_profile_username"
+         />
+
+    <EditText
+        android:id="@+id/emailEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/update_profile_email"
+        android:padding="12dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/rounded_grey_background"
+        android:inputType="textEmailAddress" />
+
+    <Button
+        android:id="@+id/updateButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/orange"
+        android:text="@string/update_profile_update_button"
+        android:textColor="@color/black"/>
+</LinearLayout>

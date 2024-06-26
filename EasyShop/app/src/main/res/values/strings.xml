@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Easy Shop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="detail_name">Name</string>
+    <string name="detail_brand">Brand</string>
+    <string name="detail_price">$22</string>
+    <string name="detail_discount">7% Discount</string>
+    <string name="detail_description">Description</string>
+    <string name="detail_very_long_description">Very Long Description</string>
+    <string name="detail_quantitity_text">1</string>
+    <string name="update_profile_text">Update Profile</string>
+    <string name="update_profile_first_name">First Name</string>
+    <string name="update_profile_last_name">Last Name</string>
+    <string name="update_profile_username">Username</string>
+    <string name="update_profile_email">Email</string>
+    <string name="update_profile_update_button">Update</string>
+    <string name="category_row_category">Category</string>
+    <string name="my_order_total">Total: $0.00</string>
+    <string name="profile_name_surname">Name Surname</string>
+    <string name="profile_gmail">example@gmail.com</string>
+    <string name="profile_posts">Posts</string>
+    <string name="search_search_hint">Search...</string>
+    <string name="search_search_button">Search</string>
+    <string name="search_write_a_term">Write a term</string>
+    <string name="nav_drawer_easy_shop">Easy Shop</string>
+    <string name="order_row_title">Buzdolabı</string>
+    <string name="order_row_discount">5% Discount</string>
+    <string name="order_row_price">200 Tl</string>
+    <string name="order_row_quantity">Quantity</string>
+    <string name="order_row_discounted_total">Discounted total</string>
+    <string name="post_row_username">username</string>
+    <string name="post_row_like">4545</string>
+    <string name="post_row_dislike">45</string>
+    <string name="post_row_long_titile">Long Titile</string>
+    <string name="post_row_very_long_post_descrption">Very Long Post Descrption</string>
+    <string name="product_row_title">Buzdolabı</string>
+    <string name="product_row_brand">Brand</string>
+    <string name="product_row_price">200 Tl</string>
+    <string name="product_row_discount">5% Discount</string>
+    <string name="product_row_long_product_description">Long product description</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map>
+    <entry>
+        <key>background_color</key>
+        <value>#FFFFFF</value>
+    </entry>
+    <entry>
+        <key>some_other_key</key>
+        <value>some_default_value</value>
+    </entry>
+
+</map>
